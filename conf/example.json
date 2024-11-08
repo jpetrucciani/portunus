@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "jacobi": {
+      "github": "jpetrucciani",
+      "gitlab": "__jacobi"
+    },
+    "bruce": {
+      "github": "gifflen"
+    }
+  },
+  "cache": {
+    "enabled": true,
+    "ttl": 3600,
+    "max_size": 1000
+  }
+}
